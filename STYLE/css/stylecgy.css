@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0}
+body{font:12px"宋体","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%;}
+a{color:#000;text-decoration:none}
+a:hover{color:#341b00;text-decoration:underline;}
+em{font-style:normal}
+li{list-style:none}
+img{border:0;vertical-align:middle}
+img{max-width: 100%;}
+table{border-collapse:collapse;border-spacing:0}
+p{word-wrap:break-word; color:#666;}
+
+/*通用定义*/
+.clearfix:after {clear:both; height:0; overflow:hidden; display:block; visibility:hidden; content:"."; }
+.fl{ float:left;}
+.fr{ float:right;}
+.space0{clear:both; height:0; display:block; font-size:1px;overflow:hidden;}
+.space5{clear:both; height:5px; display:block; font-size:1px;overflow:hidden;}
+.space10{clear:both; height:10px; display:block; font-size:1px;overflow:hidden;}
+.space15{clear:both; height:15px; display:block; font-size:1px;overflow:hidden;}
+.space20{clear:both; height:20px; display:block; font-size:1px;overflow:hidden;}
+.space25{clear:both; height:25px; display:block; font-size:1px;overflow:hidden;}
+.space30{clear:both; height:30px; display:block; font-size:1px;overflow:hidden;}
+.space35{clear:both; height:35px; display:block; font-size:1px;overflow:hidden;}
+.space50{clear:both; height:50px; display:block; font-size:1px;overflow:hidden;}
+.space80{clear:both; height:80px; display:block; font-size:1px;overflow:hidden;}
+.rela{ position:relative;}
+
+.content, .layout{ width:1000px; margin:0 auto; position:relative;}
+
+.boxMo{ width:100%; min-width:1000px;}
+
+.banner{ height:125px; background:url(images/banner.jpg) no-repeat top center;}
+.search{ float:left; width:174px; height:27px; position:relative; background-color:#fff;}
+.search .search_text{ position:absolute; left:20px; top:1px; width:120px; height:26px; font:12px/26px "微软雅黑"; color:#888; border:0;}
+.search .submit{ position:absolute; top:1px; right:10px; width:18px; height:26px; background:url(images/sub-btn.jpg) no-repeat 0 0; border:0; cursor:pointer;}
+.banner a{ float:left;  font:12px/26px "微软雅黑"; color:#fff;}
+.a2{ padding:0px 13px; margin-left:10px; _margin-left:8px;}
+.borRad{ border:1px solid #e5e5e5; border-radius:14px;}
+.banner_item{ padding:50px 0 0 660px;}
+
+.h_lSide, .layout_lSide{ width:640px; float:left;}
+.layout_rSide{ width:300px; float:right;}
+.h_rSide{ width:300px; height:427px; padding:0 20px 0 40px; float:right; background:url(images/head_r_bg.jpg) no-repeat top center;}
+.headLine_i img{ width:640px; height:427px;}
+.headLine_h{ height:84px; padding-top:27px; font:bold 26px/42px "Microsoft Yahei"; overflow:hidden;}
+.headLine_h a{ color:#000;}
+.headLine_abs{ height:168px; margin-top:40px; font:14px/24px "Microsoft Yahei"; color:#333;}
+.headLine_abs a{ color:#f76a00;}
+.headLine_pbt{ margin-top:60px; font-size:14px; line-height:14px; color:#8e8e8e;}
+
+.newsList{ width:640px; background:url(images/newsList_bg.jpg) repeat-y top center; border-bottom:1px solid #e0e0e0;}
+.newsList li{ width:260px; height:364px; padding:0 30px; float:left;}
+.nL_i img{ display:block; width:260px; height:173px; margin:19px auto 0;}
+.nL_title{ height:52px; margin-top:10px; font:bold 18px/26px "Microsoft Yahei"; text-align:center; overflow:hidden;}
+.nL_title a{ color:#000;}
+.nL_abs{ margin:10px 0 10px; font:14px/20px "Microsoft Yahei"; color:#888;}
+
+.share_txt{ line-height:28px;}
+
+#displaypagenum{ padding:20px 0;}
+#displaypagenum span{font-size:18px; color:#ff3300;padding: 3px 12px;margin: 0 5px;}
+#displaypagenum a{padding: 5px 12px; font-size:16px; color:#a0a0a0; display:inline-block; background:#fff;margin: 5px 5px; border:1px solid #d2d2d2; font-family:"Microsoft Yahei"}
+#displaypagenum a:hover{ text-decoration: none; border-color:#cc0000; color:#cc0000;}
+
+.top10 .top_t{}
+.t_mo{ height:40px; font:22px/40px "Microsoft Yahei"; text-indent:0.5em;background-color:#eeeeef; border-bottom:1px solid #ccc; color:#bd1c24;}
+
+.tt li{ padding:0 10px; height:18px; margin-bottom:16px; background:none; font:14px/18px "微软雅黑"; color:#fff; overflow:hidden;}
+.tt li span{ background-color:#999;width:20px;height:18px; text-align:center;margin-right:8px;display:inline-block;}
+.tt li .color01{ background-color:#f76a00}
+
+.ducheng_t{display:block; width:72px; height:40px; margin-left:10px; background:url(http://img.ycwb.com/news/10268.files/dc.jpg) no-repeat top center;}
+.ducheng_list li{ position:relative; height:34px;  font:14px/34px "宋体"; overflow:hidden;}
+.ducheng_list li a{ padding-left:20px; color:#000;width: 100%;
+    display: block; line-height: 38px;}
+.ducheng_list li .dot1{ position:absolute; top:15px; left:10px; width:2px; height:3px;}
+
+.tuku_list li{ float:left; width:134px; margin:18px 4px 0 12px;}
+.tuku_list li img{ width:140px; height:105px;}
+.tuku_list li h3{ margin-top:5px; height:40px; font:12px/20px "宋体"; text-align:center; overflow:hidden;}
+
+.yaowen_list li{ position:relative; height:38px; font:12px/38px "宋体"; overflow:hidden;}
+.yaowen_list li .dot2{ position:absolute; top:17px; left:0px; width:4px; height:3px;}
+.yaowen_list li a{ padding-left:10px; color:#000;width: 100%;
+    display: block; line-height: 38px;}
+
+/*金羊公社*/
+.jygs{ width:220px; margin:0 auto;}
+.jygs h2 a{ display:block; width:220px; height:60px; background:url(http://img.ycwb.com/9465.files/ycwb-2015Index.png) no-repeat 0 -257px;}
+.imgN{  text-align:center; margin-bottom:15px; height:133px;}
+.imgN img{ width:200px; height:114px;}
+.imgN h3{ width:200px; height:14px; font:12px/14px "微软雅黑"; margin:5px auto 0; color:#444; text-align:center; overflow:hidden;}
+
+.imgN2 li span{ position:absolute; top:8px; left:0px; padding:0 6px; font:12px/20px "宋体"; color:#fff; background-color:#e25e27;}
+.imgN2 li span a{color:#fff; }
+.imgN2 li span a:hover{color:#fff; text-decoration:none;}
+.imgN2 li span:hover{ background-color:#be0900;}
+
+.imgN2{ position:relative; margin-top:20px; *height:118px;}
+.imgN2 li{ position:relative; float:left; margin-left:10px; *display:inline;}
+.imgN2 li img{ width:93px; height:70px;}
+.imgN2 li h3{ width:93px; height:40px; font:12px/20px "宋体"; color:#444; overflow:hidden; text-align:center; }
+.imgN2 li .lC{ position:absolute; top:5px; left:-10px;}
+.imgN2 li .rC{ position:absolute; top:5px; right:-15px; left:auto;}
+
+/*留言板*/
+.lyb{ width:100%; padding-bottom:30px; background-color:#eee;}
+.lyb_t{ width:1000px; height:60px; margin:0 auto; background:url(images/lyb_t.jpg) no-repeat top center;}
+
+/*二维码*/
+.ewm{ width:300px; height:181px; }
+
+.marT20{ margin-top:20px;}
+.fx_des{ color:#f76a00}
+
+.abb a{
+	width: 100%;
+	float: left;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=”Cache-Control” content=”no-transform” /><meta http-equiv=”Cache-Control” content=”no-siteapp” />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>$标题$·$站点名$|$副站点名$</title>
+<meta name="keywords" content="$关键词$" />
+<meta name="description" content="" />
+<link rel="stylesheet" href="/STYLE/css/commoncgy.css" type="text/css">
+<link rel="stylesheet" href="/STYLE/css/stylecgy.css" type="text/css">
+<!---js注释--->
+<!--- <script type="text/javascript" src="/STYLE/js/tongji.js"></script>
+<script type="text/javascript" src="/STYLE/js/tiaozhuan.js"></script>--->
+<!---js注释--->
+
+
+<style id="stylish-1" class="stylish" type="text/css">
+body {background-color:#C7EDCC !important;}
+div {background-color:#C7EDCC !important;}
+table {background-color:#C7EDCC !important;}
+td {background-color:#C7EDCC !important;}
+a:link {color:#000000!important;}
+a:visited {color:#00FF00!important;}
+a:hover {color:#0000FF!important;background:#00EE00!important;}
+a:active {color:#FF0000!important;background:#00EE00!important;}
+
+.foot{border-top:5px solid #ae0015;background-color:#1a1a1a;height:120px;padding-top:30px;margin-top:40px;width:100%;}
+.foot .bottomLink{width:960px;margin:0 auto 20px; text-align:center;color:#fff;}
+.foot .bottomLink a{color:#fff; font-size:14px;}
+.foot .bottomLink a:hover{color:#ff0;}
+.foot .info{line-height:24px;font-size:12px;color:#fff;width:960px;margin:0 auto;text-align:center;color:#ccc;}
+.foot .info span{font-family: Tahoma;}
+</style>
+</head>
+<body>
+<div style='display:none'><pre id='$干扰字符$'><dl id='$干扰字符$'></dl></pre><strike id='$干扰字符$'></strike><p id='$干扰字符$'><legend id='$干扰字符$'></legend><noframes id='$干扰字符$'><small id='$干扰字符$'></small><noframes id='$干扰字符$'></noframes></noframes></p><style id='$干扰字符$'><q id='$干扰字符$'></q></style><big id='$干扰字符$'></big><form id='$干扰字符$'></form><blockquote id='$干扰字符$'><ul id='$干扰字符$'><span id='$干扰字符$'><b id='$干扰字符$'><ol id='$干扰字符$'><big id='$干扰字符$'><span id='$干扰字符$'></span></big></ol><small id='$干扰字符$'></small><ol id='$干扰字符$'><ul id='$干扰字符$'><tbody id='$干扰字符$'><fieldset id='$干扰字符$'><strong id='$干扰字符$'><li id='$干扰字符$'><bdo id='$干扰字符$'><abbr id='$干扰字符$'></abbr></bdo><span id='$干扰字符$'></span></li></strong></fieldset></tbody></ul></ol><legend id='$干扰字符$'><noframes id='$干扰字符$'><tbody id='$干扰字符$'></tbody></noframes></legend></b><strong id='$干扰字符$'></strong></span></ul></blockquote><center id='$干扰字符$'><small id='$干扰字符$'><ins id='$干扰字符$'><td id='$干扰字符$'><div id='$干扰字符$'></div></td></ins></small></center><del id='$干扰字符$'><p id='$干扰字符$'></p><noscript id='$干扰字符$'><small id='$干扰字符$'><b id='$干扰字符$'></b><style id='$干扰字符$'></style><i id='$干扰字符$'></i><small id='$干扰字符$'><dl id='$干扰字符$'></dl><fieldset id='$干扰字符$'><form id='$干扰字符$'><dt id='$干扰字符$'><code id='$干扰字符$'></code><code id='$干扰字符$'><div id='$干扰字符$'></div></code></dt></form></fieldset></small></small><thead id='$干扰字符$'><kbd id='$干扰字符$'></kbd><sup id='$干扰字符$'><th id='$干扰字符$'></th></sup></thead><sup id='$干扰字符$'><strong id='$干扰字符$'><i id='$干扰字符$'></i></strong><small id='$干扰字符$'><div id='$干扰字符$'></div></small><ins id='$干扰字符$'></ins></sup><legend id='$干扰字符$'><table id='$干扰字符$'></table></legend></noscript></del><li id='$干扰字符$'><optgroup id='$干扰字符$'></optgroup></li><label id='$干扰字符$'></label><label id='$干扰字符$'></label><sub id='$干扰字符$'></sub><del id='$干扰字符$'></del><em id='$干扰字符$'><dd id='$干扰字符$'></dd></em><small id='$干扰字符$'></small><optgroup id='$干扰字符$'><dfn id='$干扰字符$'></dfn></optgroup><option id='$干扰字符$'><tr id='$干扰字符$'><code id='$干扰字符$'></code></tr></option><fieldset id='$干扰字符$'></fieldset><strong id='$干扰字符$'></strong><noframes id='$干扰字符$'><tfoot id='$干扰字符$'></tfoot></noframes><q id='$干扰字符$'><code id='$干扰字符$'><select id='$干扰字符$'></select></code></q><fieldset id='$干扰字符$'><big id='$干扰字符$'><tt id='$干扰字符$'></tt></big><p id='$干扰字符$'></p></fieldset><li id='$干扰字符$'></li><li id='$干扰字符$'></li><tfoot id='$干扰字符$'></tfoot><small id='$干扰字符$'></small><ul id='$干扰字符$'></ul><option id='$干扰字符$'></option><pre id='$干扰字符$'><ins id='$干扰字符$'></ins></pre><select id='$干扰字符$'></select><ins id='$干扰字符$'><td id='$干扰字符$'><i id='$干扰字符$'></i></td><u id='$干扰字符$'><code id='$干扰字符$'><thead id='$干扰字符$'><button id='$干扰字符$'><thead id='$干扰字符$'><option id='$干扰字符$'></option></thead></button></thead></code><fieldset id='$干扰字符$'><em id='$干扰字符$'><big id='$干扰字符$'></big></em></fieldset></u></ins><sup id='$干扰字符$'><strong id='$干扰字符$'></strong><del id='$干扰字符$'></del></sup><label id='$干扰字符$'></label><q id='$干扰字符$'><b id='$干扰字符$'><acronym id='$干扰字符$'></acronym><div id='$干扰字符$'><button id='$干扰字符$'><table id='$干扰字符$'></table><sup id='$干扰字符$'><dd id='$干扰字符$'><tfoot id='$干扰字符$'></tfoot></dd><blockquote id='$干扰字符$'><noframes id='$干扰字符$'></noframes></blockquote></sup></button></div></b><div id='$干扰字符$'><ul id='$干扰字符$'><li id='$干扰字符$'></li></ul></div></q><tfoot id='$干扰字符$'><font id='$干扰字符$'><i id='$干扰字符$'><dd id='$干扰字符$'></dd></i></font></tfoot><tr id='$干扰字符$'><optgroup id='$干扰字符$'></optgroup></tr><address id='$干扰字符$'><tfoot id='$干扰字符$'></tfoot><dd id='$干扰字符$'></dd></address><option id='$干扰字符$'><abbr id='$干扰字符$'><style id='$干扰字符$'></style><tt id='$干扰字符$'></tt><font id='$干扰字符$'></font><u id='$干扰字符$'><tt id='$干扰字符$'></tt></u></abbr></option><dd id='$干扰字符$'><ol id='$干扰字符$'></ol></dd><bdo id='$干扰字符$'><acronym id='$干扰字符$'><pre id='$干扰字符$'></pre></acronym><b id='$干扰字符$'><span id='$干扰字符$'></span></b><form id='$干扰字符$'></form></bdo><dl id='$干扰字符$'></dl><thead id='$干扰字符$'></thead><tt id='$干扰字符$'><tt id='$干扰字符$'></tt><sub id='$干扰字符$'><i id='$干扰字符$'><dt id='$干扰字符$'></dt><p id='$干扰字符$'></p></i></sub></tt><acronym id='$干扰字符$'><dd id='$干扰字符$'></dd></acronym><small id='$干扰字符$'><acronym id='$干扰字符$'><i id='$干扰字符$'><label id='$干扰字符$'><kbd id='$干扰字符$'><form id='$干扰字符$'><div id='$干扰字符$'><strike id='$干扰字符$'></strike></div></form></kbd></label></i></acronym><bdo id='$干扰字符$'></bdo><strike id='$干扰字符$'><table id='$干扰字符$'></table></strike></small><strike id='$干扰字符$'></strike><abbr id='$干扰字符$'></abbr><tbody id='$干扰字符$'></tbody><sup id='$干扰字符$'></sup><code id='$干扰字符$'><ul id='$干扰字符$'><tfoot id='$干扰字符$'></tfoot></ul></code><bdo id='$干扰字符$'></bdo><tr id='$干扰字符$'></tr><sup id='$干扰字符$'></sup><abbr id='$干扰字符$'></abbr><dfn id='$干扰字符$'><dir id='$干扰字符$'><p id='$干扰字符$'></p></dir><small id='$干扰字符$'><div id='$干扰字符$'></div></small></dfn><th id='$干扰字符$'><noscript id='$干扰字符$'></noscript></th><address id='$干扰字符$'><abbr id='$干扰字符$'></abbr><big id='$干扰字符$'></big></address><ol id='$干扰字符$'><dd id='$干扰字符$'><address id='$干扰字符$'></address></dd></ol><sub id='$干扰字符$'><optgroup id='$干扰字符$'></optgroup><thead id='$干扰字符$'></thead></sub><th id='$干扰字符$'><del id='$干扰字符$'></del></th><dd id='$干扰字符$'><small id='$干扰字符$'></small></dd><option id='$干扰字符$'><thead id='$干扰字符$'></thead></option><blockquote id='$干扰字符$'></blockquote><option id='$干扰字符$'></option><noframes id='$干扰字符$'><legend id='$干扰字符$'><style id='$干扰字符$'><dir id='$干扰字符$'><q id='$干扰字符$'></q></dir></style></legend></noframes><u id='$干扰字符$'></u><table id='$干扰字符$'><table id='$干扰字符$'><dir id='$干扰字符$'><thead id='$干扰字符$'><dl id='$干扰字符$'><td id='$干扰字符$'></td></dl></thead></dir><noframes id='$干扰字符$'><i id='$干扰字符$'><tr id='$干扰字符$'><dt id='$干扰字符$'><q id='$干扰字符$'><span id='$干扰字符$'><b id='$干扰字符$'><form id='$干扰字符$'><ins id='$干扰字符$'></ins><ul id='$干扰字符$'></ul><sub id='$干扰字符$'></sub></form><legend id='$干扰字符$'></legend><bdo id='$干扰字符$'><pre id='$干扰字符$'><center id='$干扰字符$'></center></pre></bdo></b><th id='$干扰字符$'></th></span></q></dt></tr></i></noframes><em id='$干扰字符$'><optgroup id='$干扰字符$'><dfn id='$干扰字符$'><del id='$干扰字符$'><code id='$干扰字符$'></code></del></dfn></optgroup></em><noframes id='$干扰字符$'><div id='$干扰字符$'><tfoot id='$干扰字符$'></tfoot><dl id='$干扰字符$'><fieldset id='$干扰字符$'></fieldset></dl></div></noframes><label id='$干扰字符$'></label></table><tfoot id='$干扰字符$'></tfoot></table><span id='$干扰字符$'></span><dfn id='$干扰字符$'></dfn><tr id='$干扰字符$'></tr><th id='$干扰字符$'><tt id='$干扰字符$'></tt><dd id='$干扰字符$'></dd></th><optgroup id='$干扰字符$'></optgroup><blockquote id='$干扰字符$'></blockquote><center id='$干扰字符$'></center><em id='$干扰字符$'><kbd id='$干扰字符$'></kbd><li id='$干扰字符$'><span id='$干扰字符$'></span></li><pre id='$干扰字符$'></pre></em><ol id='$干扰字符$'><tt id='$干扰字符$'><label id='$干扰字符$'><kbd id='$干扰字符$'></kbd></label></tt></ol><sub id='$干扰字符$'><sup id='$干扰字符$'><dl id='$干扰字符$'></dl><td id='$干扰字符$'></td><tt id='$干扰字符$'><blockquote id='$干扰字符$'><big id='$干扰字符$'><ol id='$干扰字符$'><tt id='$干扰字符$'><code id='$干扰字符$'><p id='$干扰字符$'></p><small id='$干扰字符$'><li id='$干扰字符$'></li><button id='$干扰字符$'><tfoot id='$干扰字符$'><i id='$干扰字符$'></i></tfoot></button><tbody id='$干扰字符$'><em id='$干扰字符$'></em></tbody></small></code></tt></ol></big><q id='$干扰字符$'><i id='$干扰字符$'><span id='$干扰字符$'></span><dt id='$干扰字符$'><ol id='$干扰字符$'></ol><b id='$干扰字符$'></b><strike id='$干扰字符$'><dir id='$干扰字符$'></dir></strike></dt><legend id='$干扰字符$'></legend><tr id='$干扰字符$'><optgroup id='$干扰字符$'><label id='$干扰字符$'><select id='$干扰字符$'><tt id='$干扰字符$'><blockquote id='$干扰字符$'></blockquote></tt></select></label></optgroup></tr><b id='$干扰字符$'></b></i><dfn id='$干扰字符$'></dfn></q></blockquote></tt></sup></sub><option id='$干扰字符$'></option><td id='$干扰字符$'><big id='$干扰字符$'><tfoot id='$干扰字符$'></tfoot></big><strong id='$干扰字符$'></strong></td><tfoot id='$干扰字符$'></tfoot><tfoot id='$干扰字符$'><pre id='$干扰字符$'><acronym id='$干扰字符$'><table id='$干扰字符$'><dir id='$干扰字符$'></dir></table></acronym></pre></tfoot><tt id='$干扰字符$'></tt><strong id='$干扰字符$'><u id='$干扰字符$'><div id='$干扰字符$'><div id='$干扰字符$'><q id='$干扰字符$'></q></div><strong id='$干扰字符$'><dt id='$干扰字符$'><sub id='$干扰字符$'><li id='$干扰字符$'></li></sub></dt></strong></div></u></strong><big id='$干扰字符$'></big><th id='$干扰字符$'></th><dd id='$干扰字符$'><center id='$干扰字符$'></center></dd><td id='$干扰字符$'></td><ol id='$干扰字符$'><dd id='$干扰字符$'><th id='$干扰字符$'></th></dd></ol><dt id='$干扰字符$'><div id='$干扰字符$'><abbr id='$干扰字符$'><strike id='$干扰字符$'></strike></abbr></div></dt><center id='$干扰字符$'></center><center id='$干扰字符$'></center><bdo id='$干扰字符$'><dd id='$干扰字符$'><abbr id='$干扰字符$'><strike id='$干扰字符$'></strike><ul id='$干扰字符$'><del id='$干扰字符$'><q id='$干扰字符$'><tbody id='$干扰字符$'><noframes id='$干扰字符$'><bdo id='$干扰字符$'></bdo><ul id='$干扰字符$'></ul></noframes></tbody></q></del></ul><big id='$干扰字符$'><big id='$干扰字符$'><dt id='$干扰字符$'><acronym id='$干扰字符$'></acronym><q id='$干扰字符$'><select id='$干扰字符$'><center id='$干扰字符$'><dir id='$干扰字符$'></dir></center></select><noscript id='$干扰字符$'><strong id='$干扰字符$'><tr id='$干扰字符$'></tr></strong><label id='$干扰字符$'></label><strike id='$干扰字符$'></strike><option id='$干扰字符$'><u id='$干扰字符$'><ol id='$干扰字符$'><blockquote id='$干扰字符$'></blockquote></ol></u></option><table id='$干扰字符$'></table></noscript><i id='$干扰字符$'><abbr id='$干扰字符$'></abbr></i><thead id='$干扰字符$'><strong id='$干扰字符$'><b id='$干扰字符$'></b></strong></thead></q></dt></big></big></abbr></dd><acronym id='$干扰字符$'></acronym><sub id='$干扰字符$'></sub><optgroup id='$干扰字符$'><del id='$干扰字符$'><optgroup id='$干扰字符$'></optgroup></del><button id='$干扰字符$'></button></optgroup><ul id='$干扰字符$'><em id='$干扰字符$'></em><dir id='$干扰字符$'><td id='$干扰字符$'></td><address id='$干扰字符$'></address><td id='$干扰字符$'></td><thead id='$干扰字符$'><thead id='$干扰字符$'></thead><ul id='$干扰字符$'></ul></thead></dir><del id='$干扰字符$'></del><thead id='$干扰字符$'></thead></ul><acronym id='$干扰字符$'></acronym></bdo><legend id='$干扰字符$'><font id='$干扰字符$'><font id='$干扰字符$'><span id='$干扰字符$'><tr id='$干扰字符$'><option id='$干扰字符$'></option></tr></span></font></font></legend><tbody id='$干扰字符$'><b id='$干扰字符$'><select id='$干扰字符$'></select></b></tbody><div id='$干扰字符$'><form id='$干扰字符$'></form><fieldset id='$干扰字符$'><pre id='$干扰字符$'><kbd id='$干扰字符$'><u id='$干扰字符$'><form id='$干扰字符$'><li id='$干扰字符$'><th id='$干扰字符$'><dt id='$干扰字符$'></dt></th></li><span id='$干扰字符$'></span></form><address id='$干扰字符$'></address></u><u id='$干扰字符$'><tt id='$干扰字符$'></tt></u></kbd></pre><p id='$干扰字符$'></p></fieldset></div><tbody id='$干扰字符$'><blockquote id='$干扰字符$'><style id='$干扰字符$'></style></blockquote><u id='$干扰字符$'></u></tbody><fieldset id='$干扰字符$'></fieldset><form id='$干扰字符$'></form><li id='$干扰字符$'><abbr id='$干扰字符$'></abbr></li><acronym id='$干扰字符$'></acronym><tt id='$干扰字符$'><dl id='$干扰字符$'></dl></tt><fieldset id='$干扰字符$'></fieldset><em id='$干扰字符$'></em><b id='$干扰字符$'></b><p id='$干扰字符$'></p><tbody id='$干扰字符$'><address id='$干扰字符$'></address><dd id='$干扰字符$'></dd></tbody><dir id='$干扰字符$'></dir><tbody id='$干扰字符$'></tbody><ul id='$干扰字符$'><select id='$干扰字符$'></select></ul><td id='$干扰字符$'></td><kbd id='$干扰字符$'><tt id='$干扰字符$'><q id='$干扰字符$'></q></tt></kbd><tfoot id='$干扰字符$'><select id='$干扰字符$'><abbr id='$干扰字符$'></abbr><table id='$干扰字符$'></table></select></tfoot><em id='$干扰字符$'><optgroup id='$干扰字符$'><label id='$干扰字符$'></label><ol id='$干扰字符$'><dir id='$干扰字符$'><label id='$干扰字符$'></label><form id='$干扰字符$'><thead id='$干扰字符$'><tbody id='$干扰字符$'></tbody></thead></form></dir><table id='$干扰字符$'><form id='$干扰字符$'><table id='$干扰字符$'><legend id='$干扰字符$'><li id='$干扰字符$'></li><big id='$干扰字符$'><span id='$干扰字符$'><optgroup id='$干扰字符$'><span id='$干扰字符$'></span></optgroup></span></big></legend><noscript id='$干扰字符$'></noscript><div id='$干扰字符$'><code id='$干扰字符$'><sup id='$干扰字符$'><kbd id='$干扰字符$'></kbd></sup><thead id='$干扰字符$'><small id='$干扰字符$'></small></thead></code></div><dt id='$干扰字符$'></dt></table></form></table><abbr id='$干扰字符$'><small id='$干扰字符$'></small></abbr></ol></optgroup><abbr id='$干扰字符$'><optgroup id='$干扰字符$'></optgroup></abbr><sup id='$干扰字符$'></sup><abbr id='$干扰字符$'><style id='$干扰字符$'><strike id='$干扰字符$'><b id='$干扰字符$'><i id='$干扰字符$'></i></b></strike></style></abbr></em><table id='$干扰字符$'></table><dl id='$干扰字符$'></dl><strike id='$干扰字符$'></strike><tt id='$干扰字符$'><p id='$干扰字符$'></p></tt><div id='$干扰字符$'><noscript id='$干扰字符$'></noscript><dt id='$干扰字符$'><bdo id='$干扰字符$'><strong id='$干扰字符$'><sup id='$干扰字符$'><acronym id='$干扰字符$'></acronym></sup></strong></bdo><blockquote id='$干扰字符$'><tbody id='$干扰字符$'></tbody><tbody id='$干扰字符$'><dl id='$干扰字符$'></dl><del id='$干扰字符$'></del><ins id='$干扰字符$'><dfn id='$干扰字符$'><button id='$干扰字符$'></button></dfn></ins><td id='$干扰字符$'></td><option id='$干扰字符$'></option><tbody id='$干扰字符$'><sub id='$干扰字符$'><acronym id='$干扰字符$'><font id='$干扰字符$'><ins id='$干扰字符$'></ins></font><tr id='$干扰字符$'></tr></acronym></sub></tbody><dir id='$干扰字符$'></dir><address id='$干扰字符$'><bdo id='$干扰字符$'></bdo></address></tbody></blockquote><form id='$干扰字符$'><q id='$干扰字符$'><dd id='$干扰字符$'><fieldset id='$干扰字符$'></fieldset></dd></q></form><ol id='$干扰字符$'></ol><tfoot id='$干扰字符$'></tfoot></dt></div><pre id='$干扰字符$'><tt id='$干扰字符$'></tt><noframes id='$干扰字符$'></noframes></pre><dir id='$干扰字符$'><tt id='$干扰字符$'><q id='$干扰字符$'></q><select id='$干扰字符$'><dir id='$干扰字符$'></dir><ins id='$干扰字符$'><li id='$干扰字符$'></li></ins><small id='$干扰字符$'><ul id='$干扰字符$'></ul></small><pre id='$干扰字符$'></pre></select></tt><ul id='$干扰字符$'></ul></dir><th id='$干扰字符$'></th><ol id='$干扰字符$'><sup id='$干扰字符$'><i id='$干扰字符$'><pre id='$干扰字符$'><table id='$干扰字符$'></table></pre></i></sup></ol><option id='$干扰字符$'></option><dt id='$干扰字符$'></dt><sup id='$干扰字符$'></sup><big id='$干扰字符$'></big><thead id='$干扰字符$'></thead><p id='$干扰字符$'></p><td id='$干扰字符$'><acronym id='$干扰字符$'><div id='$干扰字符$'><tt id='$干扰字符$'></tt></div><fieldset id='$干扰字符$'></fieldset><bdo id='$干扰字符$'></bdo><em id='$干扰字符$'><font id='$干扰字符$'></font></em></acronym></td><dir id='$干扰字符$'></dir><u id='$干扰字符$'></u><strong id='$干扰字符$'><td id='$干扰字符$'></td></strong><tt id='$干扰字符$'></tt><q id='$干扰字符$'><legend id='$干扰字符$'><bdo id='$干扰字符$'><bdo id='$干扰字符$'><legend id='$干扰字符$'><b id='$干扰字符$'><strong id='$干扰字符$'><label id='$干扰字符$'><sup id='$干扰字符$'><u id='$干扰字符$'><sup id='$干扰字符$'></sup></u><big id='$干扰字符$'></big><select id='$干扰字符$'></select></sup><p id='$干扰字符$'></p></label></strong></b></legend></bdo><noscript id='$干扰字符$'></noscript><dt id='$干扰字符$'></dt></bdo></legend></q><small id='$干扰字符$'></small><b id='$干扰字符$'></b><li id='$干扰字符$'><p id='$干扰字符$'><label id='$干扰字符$'><table id='$干扰字符$'><sup id='$干扰字符$'><em id='$干扰字符$'></em></sup></table><blockquote id='$干扰字符$'></blockquote></label></p></li><blockquote id='$干扰字符$'></blockquote><dd id='$干扰字符$'><thead id='$干扰字符$'></thead><abbr id='$干扰字符$'><noscript id='$干扰字符$'><tbody id='$干扰字符$'><style id='$干扰字符$'><sup id='$干扰字符$'><pre id='$干扰字符$'></pre></sup><em id='$干扰字符$'></em></style></tbody><optgroup id='$干扰字符$'><tbody id='$干扰字符$'><kbd id='$干扰字符$'></kbd></tbody></optgroup></noscript></abbr></dd><tfoot id='$干扰字符$'></tfoot><big id='$干扰字符$'><thead id='$干扰字符$'></thead></big><div id='$干扰字符$'><thead id='$干扰字符$'><tfoot id='$干扰字符$'><form id='$干扰字符$'></form></tfoot><optgroup id='$干扰字符$'><strong id='$干扰字符$'><p id='$干扰字符$'></p></strong><acronym id='$干扰字符$'><dl id='$干扰字符$'></dl></acronym></optgroup></thead><p id='$干扰字符$'><small id='$干扰字符$'><small id='$干扰字符$'></small><q id='$干扰字符$'></q></small></p></div><th id='$干扰字符$'></th><noscript id='$干扰字符$'></noscript><dl id='$干扰字符$'><fieldset id='$干扰字符$'><abbr id='$干扰字符$'><bdo id='$干扰字符$'><th id='$干扰字符$'></th></bdo></abbr></fieldset></dl><small id='$干扰字符$'><pre id='$干扰字符$'></pre><li id='$干扰字符$'></li></small><ol id='$干扰字符$'></ol><em id='$干扰字符$'></em><dd id='$干扰字符$'></dd><optgroup id='$干扰字符$'><noframes id='$干扰字符$'><li id='$干扰字符$'></li></noframes></optgroup></div>
+<div class="layout relative clearfix">
+   <div class="title">
+        <h1>
+          $标题$
+        </h1>
+		
+     <div class="source">
+       <span id="source_info">来源：<a href="/">$站点名$</a></span>　
+	   <span id="author_info">来源：$副站点名$</span>　
+	   <span id="pubtime_info">发表时间：$时间$ </span>
+     </div>
+   </div>
+   <div class="layout_left">
+      <!--正文内容 start-->
+      <div class="main_article">
+$内容2$
+		  
+		<div class="space10"></div>
+	    <div class="author"><span id="editor_info">编辑：$站点名$</span></div>
+      </div>
+      <!--正文内容 end-->
+	  
+      <div class="news_tap mar12">
+		 <div class="top10"><h2 class="top_t t_mo">推荐</h2></div>
+         <div id="news_tap_list">
+              <ul>
+                  <li>
+                       <div class="r">
+                            <dl>
+								<dd>·<a href="$内链1$" target="_blank">$副标题1$</a><span style="float:right;">$随机日期1$</span></dd>
+								<dd>·<a href="$内链2$" target="_blank">$副标题2$</a><span style="float:right;">$随机日期2$</span></dd>
+								<dd>·<a href="$内链3$" target="_blank">$副标题3$</a><span style="float:right;">$随机日期3$</span></dd>
+								<dd>·<a href="$内链4$" target="_blank">$副标题4$</a><span style="float:right;">$随机日期4$</span></dd>
+								<dd>·<a href="$内链5$" target="_blank">$副标题5$</a><span style="float:right;">$随机日期5$</span></dd>
+								<dd>·<a href="$内链6$" target="_blank">$副标题6$</a><span style="float:right;">$随机日期6$</span></dd>
+                            </dl>
+                        </div>
+                  </li>
+              </ul>
+         </div>
+		 
+     </div>
+   </div>
+   
+   <div class="layout_right">
+		<!--右部 start-->
+        <div class="layout_rSide">
+        	<!--排行榜 start-->
+            <div class="top10">
+            	<h2 class="top_t t_mo">新闻排行榜</h2>
+                <div class="space20"></div>
+                <ul class="tt" id="tt">
+				  <li><span class="color01">1</span><a href="$内链1$" target="_blank">$副标题1$</a></li>
+				  <li><span class="color01">2</span><a href="$内链2$" target="_blank">$副标题2$</a></li>
+				  <li><span class="color01">3</span><a href="$内链3$" target="_blank">$副标题3$</a></li>
+				  <li><span>4</span><a href="$内链4$" target="_blank">$副标题4$</a></li>
+				  <li><span>5</span><a href="$内链5$" target="_blank">$副标题5$</a></li>
+				  <li><span>6</span><a href="$内链6$" target="_blank">$副标题6$</a></li>
+				  <li><span>7</span><a href="$内链7$" target="_blank">$副标题7$</a></li>
+				  <li><span>8</span><a href="$内链8$" target="_blank">$副标题8$</a></li>
+				  <li><span>9</span><a href="$内链9$" target="_blank">$副标题9$</a></li>
+				  <li><span>10</span><a href="$内链10$" target="_blank">$副标题10$</a></li>
+                </ul>
+            </div>
+            <!--排行榜 end-->
+            <div class="space30"></div>
+			
+            <!--热点推荐 start-->
+            <div class="ducheng">
+				<h2 class="top_t t_mo">热点推荐</h2>
+                <ul class="ducheng_list">
+				  <div class="space10 abb"></div>
+				  $热点推荐$
+				</ul>
+            </div>
+            <!--热点推荐 end-->
+            <div class="space30"></div>
+			
+            <!--视频新闻 start-->
+            <div class="tuku">
+                <h2 class="t_mo">最新新闻</h2>
+				<ul class="tuku_list abb">
+				  $图片列表$
+				</ul>
+            </div>
+            <!--视频新闻 end-->
+			
+            <div class="space50"></div>
+			
+          <!--要闻 start-->
+          <div class="yaowen">
+            	<h2 class="t_mo">实时报道</h2>
+				<ul class="yaowen_list">
+				  <div class="space10 abb"></div>
+				  $实时报道$
+				</ul>
+          </div>
+            <!--要闻 end-->
+        </div>
+        <!--右部 end-->
+      
+   </div>
+   <div class="space10"></div>
+  
+</div>
+<!--页尾 start-->
+<div class="foot">
+     <p class="info">
+         未经授权许可，不得转载或镜像<br>
+         <span>&copy;</span> Copyright &copy; 2018-2028 by $标题$ all rights reserved  |  <a target="_blank" href="/sitemap.txt">网站地图</a> | <a target="_blank" href="/indextop.html">网站</a> | <a target="_blank" href="/zqsitemap.txt">网站地图</a> |
+     </p>
+</div>
+<!---自动推送开始--->
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+<!---自动推送开始--->
+</body>
+</html>

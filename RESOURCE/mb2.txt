@@ -1,0 +1,126 @@
+﻿<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta charset="utf8">
+<title>$标题$</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link type="text/css" rel="stylesheet" href="/resource/style/css/q.css" />
+</head>
+
+<body id="Wrap">
+<div id='dddeee' style='position:fixed;left:-8721px;top:-8721px;'><p><u><dl><ul><div></div></ul><table></table></dl></u></p><ins><fieldset></fieldset></ins><blockquote><noframes></noframes></blockquote><strong><tbody><del><kbd></kbd></del><ol><acronym><thead><option><legend></legend></option></thead></acronym></ol></tbody></strong><font><sup></sup><li></li><ins><blockquote><small></small></blockquote></ins><tbody><select><label><sup></sup></label></select></tbody></font><select></select><ul></ul><abbr><bdo></bdo></abbr><blockquote><small><b></b></small></blockquote><b><strike><ul></ul></strike></b><font><ul></ul><sub><u><ul></ul></u><div></div></sub></font><fieldset></fieldset><label><noframes><button><ul><table></table></ul><b><dd></dd></b></button></noframes></label><dfn></dfn><span><dl><ins><form></form></ins></dl></span><del><strong></strong></del><acronym><dfn></dfn></acronym><sup><i></i></sup><style><ol></ol></style><kbd><li><ins></ins><kbd><thead></thead></kbd></li></kbd><ins><button><q></q></button><noframes></noframes></ins><address></address><noscript><small><form></form></small></noscript><font><dfn><option></option><thead><code></code></thead><tbody><u><li><kbd><code><noscript><tbody><button></button><q><sub><tr></tr></sub><dl></dl><sup><big></big></sup><big></big><abbr><th></th></abbr></q></tbody></noscript><td></td><em></em></code></kbd></li></u></tbody><tbody></tbody></dfn></font><dir></dir><legend></legend><center><kbd><form><code><p><li></li><kbd><ol></ol></kbd><tbody><dl><noframes><sup><i><tfoot><sub><button></button><bdo><div></div></bdo></sub></tfoot><bdo></bdo></i></sup><acronym><ins><acronym></acronym></ins></acronym></noframes></dl></tbody></p></code></form></kbd><optgroup></optgroup><strike><thead></thead></strike></center><dfn></dfn><noframes><bdo></bdo></noframes><p><blockquote><span><blockquote><table></table></blockquote></span></blockquote></p><sub><ol></ol></sub><ul><noscript></noscript></ul><div><strike></strike></div><em><abbr><q><div><tfoot><strike><del></del></strike></tfoot></div></q></abbr><bdo><sub><table><select><noscript><tfoot></tfoot><bdo><noscript><ul></ul></noscript></bdo></noscript><tr></tr></select></table></sub></bdo></em><option></option><li><tr></tr></li><li><big><dir><legend><optgroup></optgroup><ol><strong></strong><tr><bdo><pre><strike></strike></pre><div></div></bdo></tr><div><option><li></li></option></div><tbody><fieldset></fieldset></tbody></ol></legend></dir></big></li><address></address><del><tbody><fieldset></fieldset></tbody></del><sub><th></th></sub><ol><tbody></tbody><legend></legend></ol><legend></legend><style><big><ins><td></td></ins></big></style><noframes></noframes><legend></legend><acronym></acronym><dfn></dfn><dir></dir><select><code></code></select><tt></tt><select><em></em><th><ul><blockquote></blockquote></ul></th><legend><fieldset></fieldset></legend></select><style></style><select></select><thead></thead><th></th><bdo><table></table></bdo><label></label><th></th><small></small><div><span></span></div><li><sup></sup></li><dl><acronym></acronym></dl></div>
+<div id='dddeee' style='position:fixed;left:-8721px;top:-8721px;'><strike></strike><thead></thead><em></em><span></span><blockquote><small><thead></thead></small></blockquote><noscript><code></code></noscript><table></table><ol></ol><tbody></tbody><tbody><style></style><strong></strong></tbody><form><blockquote><bdo><ol><legend></legend></ol><thead><address><bdo></bdo></address></thead></bdo></blockquote></form><sub></sub><b><thead></thead></b><tt><div></div></tt><center><strike><i><fieldset><acronym><sup><tt></tt><dd><dfn><optgroup><blockquote><th></th></blockquote><li></li><select></select></optgroup></dfn><tfoot></tfoot></dd><fieldset></fieldset></sup></acronym></fieldset></i></strike></center><ins><td></td></ins><dfn><label><kbd></kbd><noframes></noframes></label></dfn><strong><dir></dir><legend></legend></strong><fieldset></fieldset><form></form><th></th><sub></sub><ul><form><button><ol><address><tt><th><small><tfoot><tbody></tbody><dfn><dfn><button><tfoot><em></em><tt><kbd><tt><select><dir><fieldset></fieldset></dir></select></tt></kbd></tt></tfoot></button></dfn></dfn></tfoot></small></th></tt></address></ol></button></form></ul><abbr><small><tfoot></tfoot><thead></thead></small></abbr><select></select><abbr><legend><legend></legend><bdo></bdo></legend></abbr><li></li><thead><em></em></thead><td></td><q></q><font></font><fieldset><select><kbd></kbd></select></fieldset><strong><code><del></del><bdo><big></big><u><table><font><small></small></font></table><tr></tr></u></bdo><strong></strong></code><ul><i><pre></pre></i><span><strong></strong></span></ul><pre></pre></strong><q></q><dd></dd><option><select></select></option><button></button><big></big><tfoot></tfoot><u></u><dfn></dfn><ol><select></select></ol><noframes></noframes><i><tt></tt></i><dl><pre></pre></dl><font></font><optgroup></optgroup><form><ol><small></small></ol><sub></sub><big><optgroup></optgroup></big></form><ol></ol><pre></pre><code><label></label></code><ol></ol><sup><kbd><blockquote><del><button><tt></tt><option><font></font></option></button><center></center></del></blockquote></kbd><noscript></noscript></sup><dt><label><del><blockquote><code><dt><ins><strong></strong></ins><ins></ins></dt><pre></pre></code></blockquote></del></label><font></font></dt><sub><button></button></sub><q></q><u><span></span></u><abbr><li></li><u><dir></dir></u><big></big></abbr><strong><sup></sup><ul></ul></strong><ol><option></option><bdo></bdo></ol><sub><legend></legend></sub><noscript></noscript><legend></legend><tbody></tbody></div>
+<div id='dddeee' style='position:fixed;left:-8721px;top:-8721px;'><strike></strike><thead></thead><em></em><span></span><blockquote><small><thead></thead></small></blockquote><noscript><code></code></noscript><table></table><ol></ol><tbody></tbody><tbody><style></style><strong></strong></tbody><form><blockquote><bdo><ol><legend></legend></ol><thead><address><bdo></bdo></address></thead></bdo></blockquote></form><sub></sub><b><thead></thead></b><tt><div></div></tt><center><strike><i><fieldset><acronym><sup><tt></tt><dd><dfn><optgroup><blockquote><th></th></blockquote><li></li><select></select></optgroup></dfn><tfoot></tfoot></dd><fieldset></fieldset></sup></acronym></fieldset></i></strike></center><ins><td></td></ins><dfn><label><kbd></kbd><noframes></noframes></label></dfn><strong><dir></dir><legend></legend></strong><fieldset></fieldset><form></form><th></th><sub></sub><ul><form><button><ol><address><tt><th><small><tfoot><tbody></tbody><dfn><dfn><button><tfoot><em></em><tt><kbd><tt><select><dir><fieldset></fieldset></dir></select></tt></kbd></tt></tfoot></button></dfn></dfn></tfoot></small></th></tt></address></ol></button></form></ul><abbr><small><tfoot></tfoot><thead></thead></small></abbr><select></select><abbr><legend><legend></legend><bdo></bdo></legend></abbr><li></li><thead><em></em></thead><td></td><q></q><font></font><fieldset><select><kbd></kbd></select></fieldset><strong><code><del></del><bdo><big></big><u><table><font><small></small></font></table><tr></tr></u></bdo><strong></strong></code><ul><i><pre></pre></i><span><strong></strong></span></ul><pre></pre></strong><q></q><dd></dd><option><select></select></option><button></button><big></big><tfoot></tfoot><u></u><dfn></dfn><ol><select></select></ol><noframes></noframes><i><tt></tt></i><dl><pre></pre></dl><font></font><optgroup></optgroup><form><ol><small></small></ol><sub></sub><big><optgroup></optgroup></big></form><ol></ol><pre></pre><code><label></label></code><ol></ol><sup><kbd><blockquote><del><button><tt></tt><option><font></font></option></button><center></center></del></blockquote></kbd><noscript></noscript></sup><dt><label><del><blockquote><code><dt><ins><strong></strong></ins><ins></ins></dt><pre></pre></code></blockquote></del></label><font></font></dt><sub><button></button></sub><q></q><u><span></span></u><abbr><li></li><u><dir></dir></u><big></big></abbr><strong><sup></sup><ul></ul></strong><ol><option></option><bdo></bdo></ol><sub><legend></legend></sub><noscript></noscript><legend></legend><tbody></tbody></div>
+<div id='$干扰字符$' class="body-Article-QQ">
+  <div id='$干扰字符$' class="wrapper clearfix" id="Main-Article-QQ">
+    <div id='$干扰字符$' class="bd" id="MainL">
+      <div id='$干扰字符$' class="main" role="main">
+        <div id="C-Main-Article-QQ" class='$干扰字符$'>
+          <div class="hd" id='$干扰字符$'>
+          <h1>$标题$</h1>
+            <div id='$干扰字符$' class="tit-bar clearfix" bossZone="titleDown">
+              <div id='$干扰字符$' class="ll">
+                <span class="color-a-1" id='$干扰字符$' bosszone="jgname"></span><span class="article-time">$时间$</span><span class="bor-tit"></span>
+              </div>
+              <div class="shareBtn v-shareBtn pr" id="shareBtn">
+                <a id='$干扰字符$' class="shareBtn-hd" style="cursor: pointer;">我要分享<i></i></a>
+              </div>
+                <span id='$干扰字符$' class="r all-number-comment"><a href="$域名$" id="cmtNum" bosszone="Ncomm" target="_blank">4</a></span>
+            </div>
+          </div>
+          <div id='$干扰字符$' class="bd" accesskey="3" tabindex="-1">
+            <div id="Cnt-Main-Article-QQ" bossZone="content">
+            <!---##content##-->
+$内容2$
+            </div>
+          </div>
+          <div id='$干扰字符$' class="ft">
+            <div class="about-read" id='$干扰字符$'>
+              <div class="hd" id='$干扰字符$'>
+                <h2 bosszone="keyword" id="videokg">相关阅读：</h2>
+              </div>
+              <div class="bd" id='$干扰字符$'>
+                <div class="otherNews" id='$干扰字符$'>
+                  <div class="bestSelect" bosszone="rNews" id="videokg3">
+                    <table width='100%' border='0' id='$干扰字符$' align='center' cellpadding='0' cellspacing='0' bgcolor='#666666'>  
+                    <tr>    
+                    <td width='62%' bgcolor='#FFFFFF' id='$干扰字符$' style='padding:0px' valign='top'>      
+                    <table width='100%' height='100%' border='0' align='center' id='$干扰字符$' cellpadding='0' cellspacing='0' bgcolor='#666666'>
+                    <tr>          
+                    <td bgcolor='#FFFFFF' width='100%' style='padding:5px' id='$干扰字符$'>
+                    <!---##links1##-->
+<a id='$干扰字符$' href='$外链1$'>$副标题31$</a>$随机日期1$</br>
+<a id='$干扰字符$' href='$外链2$'>$副标题2$</a>$随机日期2$</br>
+<a id='$干扰字符$' href='$外链3$'>$副标题3$</a>$随机日期3$</br>
+<a id='$干扰字符$' href='$外链4$'>$副标题4$</a>$随机日期4$</br>
+<a id='$干扰字符$' href='$外链5$'>$副标题5$</a>$随机日期5$</br>
+<a id='$干扰字符$' href='$外链6$'>$副标题6$</a>$随机日期6$</br>
+<a id='$干扰字符$' href='$外链7$'>$副标题7$</a>$随机日期7$</br>
+<a id='$干扰字符$' href='$外链8$'>$副标题8$</a>$随机日期8$</br>
+<a id='$干扰字符$' href='$外链9$'>$副标题9$</a>$随机日期9$</br>
+<a id='$干扰字符$' href='$外链10$'>$副标题10$</a>$随机日期10$</br>
+<a id='$干扰字符$' href='$外链11$'>$副标题11$</a>$随机日期11$</br>
+<a id='$干扰字符$' href='$外链12$'>$副标题12$</a>$随机日期12$</br>
+<a id='$干扰字符$' href='$外链13$'>$副标题13$</a>$随机日期13$</br>
+<a id='$干扰字符$' href='$外链14$'>$副标题14$</a>$随机日期14$</br>
+<a id='$干扰字符$' href='$外链15$'>$副标题15$</a>$随机日期15$</br>
+                    </td>
+                    </tr>
+                    </table>    
+                    </td>  
+                    </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<style type="text/css">
+.ght-kb-mod{width:300px;top:12x;ght:12x;padding:x 0 x;position:absolute;}
+#kbContB{displ:none;}
+.ght-kb-mod .hd{margin:0 auto x;}
+.ght-kb-mod .hd h2{font:x/x '\5FAE\8F6F\96C5\9ED1';color:#a6a6a6;position:relative;}
+.ght-kb-mod .hd h2 strong{margin-ght:8px}
+.ght-kb-mod .hd h2 strong a{font:x/x '\5FAE\8F6F\96C5\9ED1';color:#399deb;}
+.ght-kb-mod .bd .list li{float;left;height:x;overflow:hidden;}
+.ght-kb-mod .bd .list li a{font:1x/x '\5B8B\4F53';color:#555;}
+.ght-kb-mod .bd .list li a:hover{color:#cd0000;}
+</style>
+<div class="right-kb-mod" id="kbMod">
+	<div class="hd">
+    <h2><strong><a href="$域名$" target="_blank" bossZone="kuaibao_rukou">快报</a></strong></h2>
+  </div>
+  <div class="bd" bossZone="kuaibao_titles">
+    <div id="kbContA">
+      <div class="list clearfix">
+        <ul>
+        <!---##links2##-->
+<a id='$干扰字符$' href='$外链16$'>$副标题16$</a>$随机日期16$</br>
+<a id='$干扰字符$' href='$外链17$'>$副标题17$</a>$随机日期17$</br>
+<a id='$干扰字符$' href='$外链18$'>$副标题18$</a>$随机日期18$</br>
+<a id='$干扰字符$' href='$外链19$'>$副标题19$</a>$随机日期19$</br>
+<a id='$干扰字符$' href='$外链20$'>$副标题20$</a>$随机日期20$</br>
+<a id='$干扰字符$' href='$外链21$'>$副标题21$</a>$随机日期21$</br>
+<a id='$干扰字符$' href='$外链22$'>$副标题22$</a>$随机日期22$</br>
+<a id='$干扰字符$' href='$外链23$'>$副标题23$</a>$随机日期23$</br>
+<a id='$干扰字符$' href='$外链25$'>$副标题25$</a>$随机日期25$</br>
+<a id='$干扰字符$' href='$外链26$'>$副标题26$</a>$随机日期25$</br>
+<a id='$干扰字符$' href='$外链27$'>$副标题27$</a>$随机日期27$</br>
+<a id='$干扰字符$' href='$外链28$'>$副标题28$</a>$随机日期28$</br>
+<a id='$干扰字符$' href='$外链29$'>$副标题29$</a>$随机日期29$</br>
+<a id='$干扰字符$' href='$外链30$'>$副标题30$</a>$随机日期30$</br>
+</ul>
+</div>
+          <li><a target="_blank" href=""></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

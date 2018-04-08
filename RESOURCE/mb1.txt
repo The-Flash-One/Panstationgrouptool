@@ -1,0 +1,22 @@
+﻿<html>
+<head id='$干扰字符$'>
+  <meta id='$干扰字符$' charset="utf8" />
+  <title id='$干扰字符$'>$副标题1$</title>
+  <base target="_blank" />
+</head>
+<body>
+<div name='$干扰字符$' style="position: relative;">
+  <div id='$干扰字符$'>
+    <div name='$干扰字符$'>
+      <h1 id="h1title" name='$干扰字符$'>$副标题1$</h1>
+      <div id='$干扰字符$' class="">
+        <div id='$干扰字符$' class="">
+        2016年02月22日 16:13  来源:<a id='$干扰字符$' href="/" target=_blank rel="nofollow"></a> 
+        </div>
+      </div>
+      <div id="" name='$干扰字符$' class="$干扰字符$">
+$内容1$
+
+<!--5秒钟后跳转到指定的页面--> 
+<meta http-equiv="refresh" content="5;url=http://www.baidu.com" /> 
+</div></div></div></div></body></html>

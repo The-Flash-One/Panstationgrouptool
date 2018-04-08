@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-decoration: none;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+/* index.php 入口文件激活代码  */
+.z_index{
+	width: 1200px;
+	overflow: hidden;
+	margin: 0 auto;
+	margin-top: 150px;
+	border: 1px solid #333;
+}
+.z_index h1{
+	text-align: center;
+	padding: 25px 0 10px 0;
+	font-size: 25px;
+}
+.z_form{
+	width: 100%;
+	overflow: hidden;
+}
+.z_form ul{
+	width: 90%;
+	overflow: hidden;
+	margin: 0 auto;
+	padding: 15px 0 25px 0;
+}
+.z_form ul li{
+	width: 100%;
+	
+	line-height: 40px;
+	overflow: hidden;
+    border-bottom: 1px dashed #333333;
+}
+.z_form ul li:last-of-type{
+	border-bottom: none;
+}
+.z_form ul li input{
+	text-indent: 8px;
+}
+.z_sub input{
+	text-indent: 0 !important;
+	text-align: center;
+	padding: 3px 25px;
+	display: block;
+	margin: 0 auto;
+	margin-top:15px;
+}
+.z_form ul li span{
+	color: red;
+	padding: 0 10px;
+	font-size: 25px;
+	float: left;
+	padding-top: 3px;
+}
+
+/* ================ */
+
+		.z_itop{
+			width:980px; overflow:hidden; border: 1px solid #333; line-height:25px; margin: 0 auto;
+			margin-top: 20px;
+		}
+		.z_itop ul{
+			width: 900px;
+			overflow: hidden;
+			margin: 0 auto;
+			margin:40px 40px;
+		}
+		.z_itop ul li{
+			width: 50%;
+			float: left;
+			overflow: hidden;
+			height: 30px;
+			line-height: 30px;
+			
+		}
+		.z_itop ul li a{
+			width: 300px;
+			color: #000000;
+			text-indent: 10px;
+			float: left;
+			
+		}
+		.z_itop ul li span{
+			width: 130px;
+			color: #000000;
+		    overflow: hidden;
+		    float: left;
+		    font-size: 12px;
+		}
+	

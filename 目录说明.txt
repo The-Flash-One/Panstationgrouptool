@@ -1,0 +1,47 @@
+
+文件夹下：
+
+    MOBAN ：网站模板目录
+
+         index.txt  首页模板
+         mbml1.txt  文件模板样式一
+         mbml2.txt  文件模板样式二
+         mbwj1.txt  目录模板样式一
+         mbwj2.txt  目录模板样式二               
+         
+    RESOURCE ：资源目录
+
+         bt.txt  标题
+         config.txt  自动生成配置文件，不要乱动
+         fbt.txt  副目录标题
+         keywords.txt  关键词标题 
+         pic.txt  图片地址
+         tbt.txt  自动生成配置文件，不要乱动
+         fbt.txt  主站点名
+         txt.txt  文章内容目录
+         wailian.txt  外链功能
+
+    STYLE ：样式目录
+
+注意事项：1、根目录的所有PHP文件，不要动。
+          2、index-1.html 最多随机展示120条链接，自动生成的，不需要管
+          3、index.txt 所有生成的链接和标题都存放到这里
+          4、sitemap.txt 网站地图，用于百度提交
+          5、log.log 自动生成记录，每一小时生成一次
+          6、目录模板和文件模板的样式一样。一、代表新模板 二、代表旧模板
+          7、每次开启生成，需要先修改switch.php里的数值，1 代表开启  2 代表关闭 
+          8、tongji.js 放统计代码，只能放一个
+          9、tiaozhuan.js 改成要跳转的域名集合
+          10、启动js，需要用记事本打开，删除对应的注释即可 <!--  --> 
+
+    COMFIG：网站数据储存文件夹 
+
+     
+
+
+
+          
+
+
+
+          

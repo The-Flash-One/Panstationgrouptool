@@ -1,0 +1,109 @@
+
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>站群管理系统</title>
+		<link rel="stylesheet" href="STYLE/css/index.css" />
+		<script type="text/javascript" src="STYLE/js/jquery-2.2.4.js"></script>
+	</head>
+
+	<body>
+		<div class="z_index">
+			<h1>站群泛目录工具V3.1测试版(版本号：20180308)</h1>
+			<form action="./onedate.php" id='form1' method="post" style="width: ">
+				<div class="z_form">
+				<ul style="padding: 5px;     border-bottom: 1px dashed #333333;">
+				<li style="width: 100%; float: left;"><span>*</span>网站目录资源：<input type="text" name="resours" value="">&nbsp;&nbsp;&nbsp;&nbsp;<input type="button" value="获取数据" onclick="login()" style="padding: 0 20px; text-align: center; text-indent: 0;">&nbsp;&nbsp;获取你保存的数据，只填入文件名即可</li>
+			    </ul>
+			</div>
+			</form>
+
+	<script type="text/javascript">
+        function login() {
+            $.ajax({
+            //几个参数需要注意一下
+                type: "POST",//方法类型
+                dataType: "json",//预期服务器返回的数据类型
+                url: "/onedate.php" ,//url
+                data: $('#form1').serialize(),
+                success: function (result) {
+                    console.log(result);//打印服务端返回的数据(调试用)
+                    if (result) {
+                        alert("SUCCESS");
+                        $("#zxq").html(result.resultDate);
+                        $("#zqname").val(result.resours);
+
+                    }else{
+                    	alert("数据异常码："+result.resultCode);
+                    }
+                    ;
+                },
+                error : function(){
+                    alert("异常！");
+                }
+            });
+        }
+    </script>
+			
+			<form action="/one.php" method="post" id="form">
+				<div class="z_form" id='date'>
+					<ul>		
+					    <div id='zxq'>				
+						<li><span>*</span>网站生成01：域名：<input type="text" name="zqurla" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqadda" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站根目录地址：<input type="text" name="zqgena" value=""></li>
+
+						<li><span>*</span>网站生成02：域名：<input type="text" name="zqurlb" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddb" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站根目录地址：<input type="text" name="zqgenb" value=""></li>
+
+						<li><span>*</span>网站生成03：域名：<input type="text" name="zqurlc" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddc" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenc" value=""></li>
+
+						<li><span>*</span>网站生成04：域名：<input type="text" name="zqurld" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddd" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgend" value=""></li>
+
+						<li><span>*</span>网站生成05：域名：<input type="text" name="zqurle" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqadde" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgene" value=""></li>
+
+						<li><span>*</span>网站生成06：域名：<input type="text" name="zqurlf" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddf" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenf" value=""></li>
+
+						<li><span>*</span>网站生成07：域名：<input type="text" name="zqurlg" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddg" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgeng" value=""></li>
+
+						<li><span>*</span>网站生成08：域名：<input type="text" name="zqurlh" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddh" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenh" value=""></li>
+
+						<li><span>*</span>网站生成09：域名：<input type="text" name="zqurli" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddi" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgeni" value=""></li>
+
+						<li><span>*</span>网站生成10：域名：<input type="text" name="zqurlj" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddj" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenj" value=""></li>
+
+						<li><span>*</span>网站生成11：域名：<input type="text" name="zqurlk" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddk" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenk" value=""></li>
+
+						<li><span>*</span>网站生成12：域名：<input type="text" name="zqurll" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddl" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenl" value=""></li>
+
+						<li><span>*</span>网站生成13：域名：<input type="text" name="zqurlm" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddm" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenm" value=""></li>
+
+						<li><span>*</span>网站生成14：域名：<input type="text" name="zqurln" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddn" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenn" value=""></li>
+
+						<li><span>*</span>网站生成15：域名：<input type="text" name="zqurlo" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddo" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgeno" value=""></li>
+
+						<li><span>*</span>网站生成16：域名：<input type="text" name="zqurlp" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddp" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenp" value=""></li>
+
+						<li><span>*</span>网站生成17：域名：<input type="text" name="zqurlq" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddq" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenq" value=""></li>
+
+						<li><span>*</span>网站生成18：域名：<input type="text" name="zqurlr" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddr" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgenr" value=""></li>
+
+						<li><span>*</span>网站生成19：域名：<input type="text" name="zqurls" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqadds" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgens" value=""></li>
+
+						<li><span>*</span>网站生成20：域名：<input type="text" name="zqurlt" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqaddt" value="">&nbsp;&nbsp;|&nbsp;&nbsp;网站域名目录地址：<input type="text" name="zqgent" value=""></li>
+
+					    </div>
+
+						<li><span>*</span>网站资源存放名：<input type="text" name="zqname" value="" id='zqname'></li>&nbsp;&nbsp;
+					    <li><span>*</span>是否保存数据和修改数据：<input type="radio" name="rebun" value="1">数据保存 | <input type="radio" name="rebun" value="2" checked>数据不保存
+						<li class="z_sub">
+							<input type="submit" value="下一步" />
+						</li>
+						<div style='margin-top:15px; color: red;'>温馨提示：功能还未成熟完善、代码未进行优化，数据接口功能还未开发，该版本处于测试阶段，如在使用过程中出现问题，请及时反馈，未经允许请不要随意转赠它人，违者必究。</div>
+					</ul>
+				</div>
+			</form>
+		</div>
+	</body>
+
+</html>

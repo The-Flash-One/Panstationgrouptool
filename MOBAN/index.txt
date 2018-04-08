@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>新闻目录展示</title>
+		<link rel="stylesheet" href="/STYLE/css/index.css" />
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <!--js注释-->
+<!-- <script type="text/javascript" src="/STYLE/js/tongji.js"></script>
+<script type="text/javascript" src="/STYLE/js/tiaozhuan.js"></script>-->
+<!--js注释-->
+<link rel="stylesheet" href="/STYLE/css/base.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/STYLE/css/layout.css" type="text/css" media="screen" />
+
+
+	</head>
+	<body>
+		<div class="head">
+<div class="meau">
+<ul>
+<h1>新闻目录展示</h1>
+</ul>
+</div>
+</div>
+<div class="classify-table">
+<div class="tab-pages">
+<ul id="page-tab-1">
+
+$首页链接$
+
+</ul>
+
+</div>
+</div>
+		<div style="width:1000px; margin:0 auto; margin-top:30px; overflow:hidden; line-height: 35px; text-align: center;  ">
+ Copyright  2017-2028 新闻目录 Inc. All Rights Reserved. 新闻目录  版权所有。|  <a target="_blank" href="/sitemap.txt">网站地图</a> | <a target="_blank" href="/indextop.html">网站</a> | <a target="_blank" href="/zqsitemap.txt">网站地图</a> |
+</div>
+
+<!---自动推送开始--->
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+<!---自动推送开始--->
+	</body>
+
+	<style type="text/css">
+
+	 .meau h1{
+
+	 	height: 44px;
+	 	line-height: 44px;
+
+	 	overflow: hidden;
+
+	 	color: #fff;
+            font-size: 20px;
+	 	text-align: center;
+	 }
+		
+       #page-tab-1{
+       	width: 1530px !important;
+       	margin:0 auto !important;
+       }
+       #page-tab-1 li{
+          margin-right: 10px !important;
+          line-height: 25px !important;
+           height: 25px;
+      }
+       #page-tab-1 li a{
+       	width: 480px  !important;
+       	float: left;
+       	height: 25px  !important;
+       	overflow: hidden  !important;
+       }
+       #page-tab-1 li span{
+       	float: right;
+       	width: 140px  !important;
+       		height: 25px  !important;
+       		overflow: hidden;
+       		text-align: right;
+       }
+
+
+
+	</style>
+
+</html>
